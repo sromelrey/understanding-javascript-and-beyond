@@ -23,7 +23,7 @@ This repository follows a structured learning system built around:
 - 🌍 Real-World Application
 - 📊 Visualization and Mental Models
 
-📖 [Read Full Learning Philosophy](./docs/learning-philosophy.md)
+📖 [Read Full Learning Philosophy](./learning-philosophy.md)
 
 ---
 

@@ -1,3 +1,4 @@
+[⬅ Back to Glossary](./README.md)
 
 ## 🧠 Learning Philosophy
 
